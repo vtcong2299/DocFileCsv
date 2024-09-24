@@ -1,0 +1,14 @@
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\DocFileCsv\bin\Debug\net8.0\DocFileCsv.exe
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\DocFileCsv\bin\Debug\net8.0\DocFileCsv.deps.json
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\DocFileCsv\bin\Debug\net8.0\DocFileCsv.runtimeconfig.json
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\DocFileCsv\bin\Debug\net8.0\DocFileCsv.dll
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\DocFileCsv\bin\Debug\net8.0\DocFileCsv.pdb
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\DocFileCsv\obj\Debug\net8.0\DocFileCsv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\DocFileCsv\obj\Debug\net8.0\DocFileCsv.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\DocFileCsv\obj\Debug\net8.0\DocFileCsv.AssemblyInfo.cs
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\DocFileCsv\obj\Debug\net8.0\DocFileCsv.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\DocFileCsv\obj\Debug\net8.0\DocFileCsv.dll
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\DocFileCsv\obj\Debug\net8.0\refint\DocFileCsv.dll
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\DocFileCsv\obj\Debug\net8.0\DocFileCsv.pdb
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\DocFileCsv\obj\Debug\net8.0\DocFileCsv.genruntimeconfig.cache
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\DocFileCsv\obj\Debug\net8.0\ref\DocFileCsv.dll
